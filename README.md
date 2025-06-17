@@ -50,14 +50,3 @@ Make sure the following are installed:
   ```bash
   java Library.Main
 
-## 📋 Menu Options (after running)
-    ```bash
-   Enter 1 Register
-   Enter 2 Issue book
-   Enter 3 Return book
-   Enter 4 Show all book
-   Enter 5 Show All student
-   Enter 6 Show Your issue book
-   Enter 7 Add book
-   Enter 8 Add new book
-
