@@ -42,4 +42,22 @@ Make sure the following are installed:
    git clone https://github.com/shashi9170/Library-Project-java.git
    cd Library-Project-java
 
+2. **Compile all Java files**
+   ```bash
+   javac Library/*.java
+
+4. **Run the application**
+  ```bash
+  java Library.Main
+
+## 📋 Menu Options (after running)
+    ```bash
+   Enter 1 Register
+   Enter 2 Issue book
+   Enter 3 Return book
+   Enter 4 Show all book
+   Enter 5 Show All student
+   Enter 6 Show Your issue book
+   Enter 7 Add book
+   Enter 8 Add new book
 
