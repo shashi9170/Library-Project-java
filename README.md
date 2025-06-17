@@ -46,7 +46,7 @@ Make sure the following are installed:
    ```bash
    javac Library/*.java
 
-4. **Run the application**
+3. **Run the application**
   ```bash
   java Library.Main
 
