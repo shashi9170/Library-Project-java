@@ -48,5 +48,5 @@ Make sure the following are installed:
 
 3. **Run the application**
   ```bash
-  java Library.Main
+     java Library.Main
 
